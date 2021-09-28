@@ -44,4 +44,36 @@
         android:background="@drawable/bg_btn4"
         android:layout_marginTop="10dp"/>
 
+    <Button
+        android:id="@+id/btn_kotlin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kotlin print"
+        android:background="@drawable/bg_btn4"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/btn_kotlin_class"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kotlin class"
+        android:background="@drawable/bg_btn4"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/btn_abstract"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kotlin abstract"
+        android:background="@drawable/bg_btn4"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/btn_kotlin_test"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kotlin Test"
+        android:background="@drawable/bg_btn4"
+        android:layout_marginTop="10dp"/>
+
 </LinearLayout>

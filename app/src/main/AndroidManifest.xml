@@ -14,7 +14,7 @@
         <activity android:name=".LifeCycleActivity" /> <!-- android:theme="@style/Theme.JavaBasicExercise" -->
         <activity android:name=".ButtonActivity" />
         <activity android:name=".TextViewActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".Kotlin.KotlinActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
